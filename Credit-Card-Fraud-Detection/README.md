@@ -42,7 +42,7 @@ Logistic Regression
 XGBoost
 Each model was wrapped in a Pipeline, which included scaling of data and model training.
 
-## 7. Hyperparameter Tuning (Optional)
+## 7. Hyperparameter Tuning
 For model optimization, I used GridSearchCV to search for the best hyperparameters across the following models:
 
 Random Forest: Tuned parameters like n_estimators, max_depth, and min_samples_split.
