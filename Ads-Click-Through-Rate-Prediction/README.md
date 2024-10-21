@@ -47,8 +47,12 @@ The project demonstrates the use of machine learning models to predict advertise
 To replicate this analysis, follow these steps:
 
 Install the required libraries.
+
 Load the dataset.
+
 Preprocess the data using scaling and splitting techniques.
+
 Train and tune machine learning models.
+
 Evaluate the performance using appropriate metrics.
 
